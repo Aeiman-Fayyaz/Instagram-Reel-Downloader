@@ -132,3 +132,7 @@ button:hover {
     color: white;
     font-size: 18px;
 }
+
+.steps-text{
+    background-color: #d5c0ee75;
+}
