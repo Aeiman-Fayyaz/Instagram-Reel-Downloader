@@ -136,3 +136,11 @@ button:hover {
 .steps-text{
     background-color: #d5c0ee75;
 }
+
+
+
+@media screen and (min-width: 0px) and (max-width: 399px) {
+    .text-size{
+        font-size: 14px;
+    }
+}
